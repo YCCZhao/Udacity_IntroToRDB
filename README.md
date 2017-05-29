@@ -1,6 +1,7 @@
 # Swiss_Tournament_RDB
 A database backed python application to determine winner of a Swiss tournament.
-_Udacity Introduction to Relational Database Course Final Project_
+
+_[Udacity Introduction to Relational Database](https://www.udacity.com/course/intro-to-relational-databases--ud197) Course Final Project_
 
 ## Database
 This application uses [PostgreSQL](https://www.postgresql.org/) database. 
